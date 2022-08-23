@@ -1,0 +1,9 @@
+Package : hello
+
+Version :1.0
+
+Architecture : all
+
+Maintainer :Internal Pointers 
+
+Description : A program that greets you
